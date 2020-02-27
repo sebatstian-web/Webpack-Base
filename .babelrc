@@ -1,0 +1,4 @@
+{
+  // Configuracion para transpilar codigo a ES5
+  "presets": ["@babel/preset-env", "minify"]
+}
